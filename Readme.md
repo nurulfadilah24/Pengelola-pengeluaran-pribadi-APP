@@ -54,10 +54,9 @@ Proyek ini dibagi menjadi empat bagian utama:
 - Timeline proyek dibuat menggunakan **ClickUp** dengan mode tampilan *Gantt View*.  
 - Fitur ini digunakan untuk mempermudah pemantauan jadwal kerja, pembagian tugas, serta progres pengembangan aplikasi **MoneyTrack**.  
 - Setiap tahap proyek — mulai dari perancangan UI/UX, pembuatan prototype, hingga pengujian aplikasi — ditampilkan secara visual dan terstruktur.
-
  Berikut hasil tampilan timeline proyek MoneyTrack:
-
-![Timeline MoneyTrack](gambar Timeline.png)
+![Timeline MoneyTrack](<img width="1360" height="678" alt="gambar Timeline" src="https://github.com/user-attachments/assets/d105b07c-6a01-4cea-974d-e7274551babb" />
+)
 
 
 | No | Task | Start Date | Due Date | Status |
